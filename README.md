@@ -15,8 +15,8 @@ The dataset used in this assignment is a modified version of the National Instit
 - scipy 1.9+
 
 ## Files Included
-- `Practical-01.pdf`: Assignment questions.
 - `diabetes.csv`: Data file for the questions.
+- `diabetes_cleaned.csv`: Cleaned data file for the questions.
 - `Practical-01.ipynb`: Python notebook programs.
 - `Practical-01.html`: Notebook in HTML showing the outputs.
 
